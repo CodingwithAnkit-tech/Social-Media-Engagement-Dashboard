@@ -1,7 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/990e486f-9530-4358-83a6-bdc296ddcff9" /># 🔹 Project Title
-Social Media Engagement Dashboard (YouTube Analytics)
-
-#🔹 Project Overview
+# 🔹 Project Overview
 
 - This project focuses on analyzing social media engagement metrics using YouTube data and visualizing insights through an interactive Power BI dashboard.
 The dashboard helps identify content performance trends, best posting times, and user engagement patterns to support data-driven content strategies.
