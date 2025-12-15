@@ -1,4 +1,4 @@
-# 🔹 Project Title
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/990e486f-9530-4358-83a6-bdc296ddcff9" /># 🔹 Project Title
 Social Media Engagement Dashboard (YouTube Analytics)
 
 #🔹 Project Overview
@@ -75,10 +75,13 @@ https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=ebce5e7
 
 # 🔹 Internship Context
 
-- This project was completed as part of my Data Analytics Internship to demonstrate practical skills in:
-- Data analysis
-- Dashboard creation
-- Business insights generation
+This project was completed as Task 1 of my one-month Data Analytics Internship at CodeC Technologies.
+The objective of this task was to apply theoretical knowledge to a real-world dataset and demonstrate practical skills in:
+- Data analysis and preprocessing
+- Interactive dashboard creation using Power BI
+- Extracting actionable business insights from social media data
+- This task helped strengthen my understanding of data-driven decision-making and visualization techniques.
+
 
 🔹 Author
 
