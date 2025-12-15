@@ -62,6 +62,10 @@ The dashboard helps identify content performance trends, best posting times, and
 
 # Project Youtube demo video link
 https://youtu.be/Go97Ei_gr50?si=E77zhSIq4btebU-N
+
+# 👉 Live Dashboard Link:
+https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=ebce5e7d-2d54-4b8f-9e0c-98474677c592&pbi_source=mobile_android&groupObjectId=dcced822-3549-422d-96f3-e16fe8702e10&reportObjectId=579feb10-b35f-450b-b1c5-ddea661f1288&reportPage=b393a950e88a7b03c485&bookmarkGuid=879b7ab1-da52-4da9-bf47-17029c7d5ac0&fullScreen=0
+
 # 🔹 How to Use
 
 - Download the .pbix file from the powerbi folder
